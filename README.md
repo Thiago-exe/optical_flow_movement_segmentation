@@ -11,5 +11,3 @@ The project is implemented in Python, using relevant computer vision libraries s
 ## Summary
 - Documentation:
     - [Studying - Our theoretical report/summary](/STUDYING.md)
-    - [Contributing - See how you can contribute to this project](/CONTRIBUTING.md)
-    - [Code of Conduct](/CODE_OF_CONDUCT.md)
